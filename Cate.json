@@ -1,0 +1,37 @@
+[
+    {
+        "CateID": "1",
+        "Name": "Trap",
+        "Priority": "1"
+    },
+    {
+        "CateID": "2",
+        "Name": "Hip Hop",
+        "Priority": "2"
+    },
+    {
+        "CateID": "3",
+        "Name": "EDM",
+        "Priority": "3"
+    },
+    {
+        "CateID": "4",
+        "Name": "Techno",
+        "Priority": "4"
+    },
+    {
+        "CateID": "5",
+        "Name": "Drill",
+        "Priority": "5"
+    },
+    {
+        "CateID": "6",
+        "Name": "Synthwave",
+        "Priority": "6"
+    },
+    {
+        "CateID": "7",
+        "Name": "Dub-step",
+        "Priority": "7"
+    }
+]
