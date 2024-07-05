@@ -2,17 +2,17 @@
     {
         "CateID": "1",
         "Name": "Trap",
-        "Priority": "1"
+        "Priority": "2"
     },
     {
         "CateID": "2",
         "Name": "Hip Hop",
-        "Priority": "2"
+        "Priority": "3"
     },
     {
         "CateID": "3",
         "Name": "EDM",
-        "Priority": "3"
+        "Priority": "1"
     },
     {
         "CateID": "4",
